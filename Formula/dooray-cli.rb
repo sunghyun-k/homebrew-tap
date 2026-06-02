@@ -1,8 +1,8 @@
 class DoorayCli < Formula
   desc "Dooray project management CLI"
   homepage "https://github.com/sunghyun-k/dooray-cli"
-  url "https://github.com/sunghyun-k/dooray-cli/releases/download/v0.6.0/dooray-cli-arm64-macos.tar.gz"
-  sha256 "c6b43d3c3fae2ae98647fdbc4e19037c55bde18b4db35cb53578085558a2b25e"
+  url "https://github.com/sunghyun-k/dooray-cli/releases/download/v0.7.0/dooray-cli-arm64-macos.tar.gz"
+  sha256 "5a17d4d102db277d9793f544810fb96c5f7d1ede19861d540d51faf5dfbc2ea8"
   license "MIT"
 
   depends_on :macos
